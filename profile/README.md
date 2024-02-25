@@ -1,12 +1,8 @@
-## Hi there 👋
+## Привет! Мы Solenox Project. 👋
+## Мы - первый проект работающий по схеме semi-opensource.
 
-<!--
+### Что такое semi-opensource?
+- Это схема распространения исходников наших сборок. Всё необходимое мы выкладываем в общий доступ, но некоторые компоненты наших сборок являются проприетарными. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Можно ли делать вклад в развитие проекта?
+- Конечно! Мы приветствуем талантливых игроков, готовых помогать нам в разработке!
